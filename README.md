@@ -1,4 +1,4 @@
-# Canada-Healthcare-Spending-Model
+# Canadian Healthcare Spending Model
 
 This project analyzed annual healthcare spending in Canada, using Power Query in Excel for data processing and PowerBI for visualization. It focused on trends in healthcare spending by age group, province/territory, government versus individual expenditures on healthcare, and compared these findings to Canadian income tax brackets.
 
