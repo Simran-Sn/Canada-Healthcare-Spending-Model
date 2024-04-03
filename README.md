@@ -6,6 +6,6 @@ The data for this analysis were sourced from Statistics Canada and the Canadian 
 
 The project aimed to provide an interactive dashboard that displays clear insights into how healthcare funds are distributed and the financial impact on various groups and regions throughout Canada.
 
-
+Here is a sample picture for the dashboard:
 ![image](https://github.com/Simran-Sn/Canada-Healthcare-Spending-Model/assets/164589061/98b641ac-5b58-4cfb-89b5-48ced36deb8a)
 
